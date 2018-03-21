@@ -1,0 +1,1 @@
+This repository contains mathematical biology algorithms written in Matlab for the Mathematical Biology course at SMU (MATH 6335 with Weihua Geng, Spring 2016).  Still in the processing of uploading as of 3/21/18.
